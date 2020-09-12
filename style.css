@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap');
+
+body {
+    background-color: peachpuff;
+    font-family: 'Mali', cursive;
+
+}
+
+.entire {
+    background-image: url("https://cdn.pixabay.com/photo/2020/07/18/16/29/coffee-5417663_1280.png");
+}
+
+.full {
+    background-color: peachpuff;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+h2 {
+    color: brown;
+    text-decoration: underline;
+    text-align: center;
+}
+
+button {
+    background-color: brown;
+    color: white;
+    font-size: 120%;
+    text-align: center;
+}
+
+.coffee {
+    text-align: center;
+}
+
+ul {
+    margin-left: 45%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+}
+
+dl {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+}
